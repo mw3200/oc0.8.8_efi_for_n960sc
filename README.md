@@ -14,7 +14,7 @@ Disable [VT-d]
 
 Disable [Platform Trust]
 
-[Aperture] Size set to "512MB"
+[Aperture Size] set to "512MB"
 
 **Do not upgrade the AppleALC.kext, it is customized for Ventura. Using the official kext will cause exceptions to the built-in microphone.**
 
